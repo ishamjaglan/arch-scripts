@@ -9,7 +9,7 @@ This script can make your simple arch distro to a hacking distro in a few steps
 	./setup.sh
 
 ### Tools:
-Tools are listed in [this file](tools).
+Tools are listed in [this file](tools.md).
 
 Request more tools and options at:
 https://github.com/ixh4m/arch-scripts/issues/new/choose
