@@ -1,39 +1,39 @@
-nmap
-gobuster
-ffuf
-smbclient
-metasploit
-binwalk
-wireshark-qt
-john
-hydra
-netcat
-burpsuite
-ghidra
-macchanger
-wpscan
-seclists
-haiti
-aircrack-ng
-bettercap
-hashcat
-hexedit
-tor
-torsocks
-torbrowser-launcher
-sqlmap
-maltego
-nikto
-recon-ng
-phoneinfoga
-audacity
-exiv2
-nipe
-steghide
-stegsolve
-zsteg
-zaproxy
-android-apktool
-dex2jar
-autopsy
-snort
+    nmap
+    gobuster
+    ffuf
+    smbclient
+    metasploit
+    binwalk
+    wireshark-qt
+    john
+    hydra
+    netcat
+    burpsuite
+    ghidra
+    macchanger
+    wpscan
+    seclists
+    haiti
+    aircrack-ng
+    bettercap
+    hashcat
+    hexedit
+    tor
+    torsocks
+    torbrowser-launcher
+    sqlmap
+    maltego
+    nikto
+    recon-ng
+    phoneinfoga
+    audacity
+    exiv2
+    nipe
+    steghide
+    stegsolve
+    zsteg
+    zaproxy
+    android-apktool
+    dex2jar
+    autopsy
+    snort
