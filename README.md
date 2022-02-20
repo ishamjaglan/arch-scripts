@@ -7,5 +7,5 @@ Make your Arch Distro an ultimate hacking machine.
 System maintanance scripts.
 
 ---
-Request more tools and options at:
+Request more scripts and features at:
 https://github.com/ixh4m/arch-scripts/issues/new/choose
