@@ -37,3 +37,4 @@
     dex2jar
     autopsy
     snort
+    remmina
